@@ -1,2 +1,2 @@
-# mysite
+# homepage
 This is my personal academic website.
