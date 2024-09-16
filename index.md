@@ -16,7 +16,7 @@ layout: default
 
 <p>Prior to joining the Centre in August 2024, I obtained my PhD in Economics from Princeton University. </p>
 
-<br>
+<hr style="width:60%"> 
 
 <h2>Research Papers</h2>
 
@@ -40,7 +40,7 @@ layout: default
   </li>
 </ol>
 
-<br>
+<hr style="width:60%"> 
 
 <h2>Data Collection</h2>
 
@@ -72,7 +72,7 @@ layout: default
   </li>
 </ol>
 
-<br>
+<hr style="width:60%"> 
 
 <h2>Teaching Experience</h2>
 
