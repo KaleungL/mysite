@@ -20,8 +20,12 @@ layout: default
 
 <h2>My Research Papers</h2>
 
-1. <b>Banks' Geographic Expansion: New Location, Same Old Neighbours</b>
-<p margin-left="40px"><font size="-1"><i>Abstract.</i> This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are indeed more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. As a consequence, the statewide deregulation may not benefit all regions and firms equally. Areas where more "familiar" entities experience more entries and higher growth. Small businesses may not benefit as much as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and offer policy guidance for more effective and equitable financial reforms.</font></p> <br>
+1. <div>
+  <b>Banks' Geographic Expansion: New Location, Same Old Neighbours</b>
+  <p margin-left="40px"><font size="-1"><i>Abstract.</i> This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are indeed more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. As a consequence, the statewide deregulation may not benefit all regions and firms equally. Areas where more "familiar" entities experience more entries and higher growth. Small businesses may not benefit as much as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and offer policy guidance for more effective and equitable financial reforms.</font></p>
+  </div>
+
+<br>
 
 1. <b>The Financial Transmission of Trade Shocks: Household Credit Channel</b>
 <p margin-left="40px"><font size="-1"><i>Abstract.</i> Banks play a role in transimitting trade shocks across regions and from tradable to non-tradable sectors. This paper studies the reponse of US banks to increase in import competition in the local economy due to China's accession to WTO. I find that exposed banks experience slower growth in deposits and limit their lending to households, and this further translates into slower employment growth in the local non-tradable sectors.</font></p> <br>
