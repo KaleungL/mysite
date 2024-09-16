@@ -4,29 +4,33 @@ layout: default
 
 <h1>Hello!</h1>
 
-<p>
-  I am a Research Fellow at Monash Centre for Financial Studies (MCFS). 
-</p>
-<p>
-  MCFS is one of the cross-disciplinary research centres within Monash Business School, Monash University. 
-  We execute policy and industry relevant research related to the financial sector.
-</p>
-
-<p>
-  My research areas include finance, macroeconomics and labour economics. 
-</p>
+<div>
+  <p>
+    I am a Research Fellow at Monash Centre for Financial Studies (MCFS). 
+  </p>
+    
+  <p>
+    MCFS is one of the cross-disciplinary research centres within Monash Business School, Monash University. 
+    We execute policy and industry relevant research related to the financial sector.
+  </p>
   
-<p>
-  Currently, I am particularly interested in studying banking organisations and their role in the broader economy. 
-  I study why banks thrive or fail, 
-  how they respond to policies and regulations, 
-  and how their behaviour affects the wellbeing of individuals, households and firms. 
-  Oftentimes, my research aims to inform public policy decisions. 
-</p>
+  <p>
+    My research areas include finance, macroeconomics and labour economics. 
+  </p>
+    
+  <p>
+    Currently, I am particularly interested in studying banking organisations and their role in the broader economy. 
+    I study why banks thrive or fail, 
+    how they respond to policies and regulations, 
+    and how their behaviour affects the wellbeing of individuals, households and firms. 
+    Oftentimes, my research aims to inform public policy decisions. 
+  </p>
+  
+  <p>
+    Prior to joining the Centre in August 2024, I obtained my PhD in Economics from Princeton University. 
+  </p>
+</div>
 
-<p>
-  Prior to joining the Centre in August 2024, I obtained my PhD in Economics from Princeton University. 
-</p>
 
 <hr style="width:60%"> 
 
