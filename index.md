@@ -42,7 +42,7 @@ layout: default
 
 <hr style="width:60%"> 
 
-<h2>Data Collection</h2>
+<h2>Data Collections</h2>
 
 <p><font size="-1"><i>Acknowledgement: The following projects received financial supports from Washington Center for Equitable Growth and National Science Foundation (NSF Award 1949504) to Princeton Macrofinance Lab. Special thanks to Pallavi Nuka at JRCPPF for tremendous administrative support.</i></font></p>
 
