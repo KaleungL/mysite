@@ -6,8 +6,10 @@ layout: default
 
 <p>
   I am a Research Fellow at Monash Centre for Financial Studies (MCFS). 
+</p>
+<p>
   MCFS is one of the cross-disciplinary research centres within Monash Business School, Monash University. 
-  The Centre executes policy and industry relevant research related to the financial sector.
+  We execute policy and industry relevant research related to the financial sector.
 </p>
 
 <p>
@@ -15,7 +17,7 @@ layout: default
 </p>
   
 <p>
-  Currently, I have particular interests in studying banking organisations and their role in the broader economy. 
+  Currently, I am particularly interested in studying banking organisations and their role in the broader economy. 
   I study why banks thrive or fail, 
   how they respond to policies and regulations, 
   and how their behaviour affects the wellbeing of individuals, households and firms. 
