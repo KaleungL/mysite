@@ -6,12 +6,12 @@ layout: default
 
 <p>I am a Research Fellow at Monash Centre for Financial Studies, Monash Business School, Monash University.</p>
 
-<p>My research fields include finance, macroeconomics and labour economics. 
-  Currently, I am particularly interested in studying banking organisations. 
-  My research helps improve our understanding of the role banks play in our broad economy, 
-  by studying why they thrive or fail, 
+<p>My research areas include finance, macroeconomics and labour economics. </p>
+  
+<p>Currently, I am particularly interested in studying banking organisations and their role in the broader economy, 
+  I study why banks thrive or fail, 
   how they respond to policies and regulations, 
   and how they impact the wellbeing of individuals, households and firms. 
-  Meanwhile, my research aims to inform policy decisions and industry practices. </p>
+  Oftentimes, my research aims to inform policy decisions or industry practices. </p>
 
-<p>Prior to joining the Centre, I obtained my PhD in Economics from Princeton University. </p>
+<p>Prior to joining the Centre in August 2024, I obtained my PhD in Economics from Princeton University. </p>
