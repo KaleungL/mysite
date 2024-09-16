@@ -82,18 +82,18 @@ layout: default
   <li>
     <b>ECO362 Financial Investments</b>
     <br>
-    <font size="-1"><i>This course is an introduction to financial investments for students with no prior knowledge of finance. It provides an overview of financial markets and instruments including stocks, bonds, futures, options, and other derivatives. A theory of optimal asset allocation teaches the tradeoff between risk and return and the importance of diversification. A theory of asset pricing, developed under the assumption of no arbitrage, is used to evaluate trading strategies and the performance of mutual funds and other asset managers. Key concepts are illustrated through examples and homework exercises that use financial market data.</i></font>
+    <font size="-1"><i>Description:</i> This course is an introduction to financial investments for students with no prior knowledge of finance. It provides an overview of financial markets and instruments including stocks, bonds, futures, options, and other derivatives. A theory of optimal asset allocation teaches the tradeoff between risk and return and the importance of diversification. A theory of asset pricing, developed under the assumption of no arbitrage, is used to evaluate trading strategies and the performance of mutual funds and other asset managers. Key concepts are illustrated through examples and homework exercises that use financial market data.</font>
   </li>
   <br>
   <li>
     <b>ECO363 Corporate Finance and Financial Institutions</b>
     <br>
-    <font size="-1"><i>This course examines the determinants of corporate financing decisions and the role of financial institutions in the wider context of the working of financial markets. Topics include capital budgeting, capital structure, risk management, and corporate governance. Additionally, the course introduces various methodologies for valuing individual projects, as well as entire companies.</i></font>
+    <font size="-1"><i>Description:</i> This course examines the determinants of corporate financing decisions and the role of financial institutions in the wider context of the working of financial markets. Topics include capital budgeting, capital structure, risk management, and corporate governance. Additionally, the course introduces various methodologies for valuing individual projects, as well as entire companies.</font>
   </li>
   <br>
   <li>
     <b>FIN502 Corporate Finance and Financial Accounting</b>
     <br>
-    <font size="-1"><i>Major topics in modern corporate finance. We study investment policy (investment decision rules, project valuation, cost of capital) and financial policy (mostly capital structure decisions). Additional topics (private equity, bankruptcy and reorganization, merger and acquisitions) are covered if time permits.</i></font>
+    <font size="-1"><i>Description:</i> Major topics in modern corporate finance. We study investment policy (investment decision rules, project valuation, cost of capital) and financial policy (mostly capital structure decisions). Additional topics (private equity, bankruptcy and reorganization, merger and acquisitions) are covered if time permits.</font>
   </li>
 </ul>
