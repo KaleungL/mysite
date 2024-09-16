@@ -11,7 +11,7 @@ layout: default
 <p>Currently, I am particularly interested in studying banking organisations and their role in the broader economy, 
   I study why banks thrive or fail, 
   how they respond to policies and regulations, 
-  and how they impact the wellbeing of individuals, households and firms. 
+  and how their behaviour affects the wellbeing of individuals, households and firms. 
   Oftentimes, my research aims to inform policy decisions or industry practices. </p>
 
 <p>Prior to joining the Centre in August 2024, I obtained my PhD in Economics from Princeton University. </p>
