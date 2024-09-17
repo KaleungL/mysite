@@ -83,6 +83,7 @@ layout: default
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
     <p><font size="-1">The County Business Pattern (CBP) files contain employment and establishment counts for detailed industry codes covering all counties in the United States. The contribution of this project is to digitize, clean, and prepare the CBP files during 1946–1974.</font></p>
+    </div>
   </li>
       
   <br>
@@ -95,6 +96,7 @@ layout: default
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
     <p><font size="-1">This user manual provides a detailed documentation of a database containing all CBP datasets published during the first 70 years since its inception. We digitized historical data from physical print, standardized all data format, and imputed undisclosed employment counts. We also document changes in the data structure, industry classifications and county boundaries. </font></p>
+    </div>
   </li>
       
   <br>
@@ -106,7 +108,8 @@ layout: default
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
-    <p> <font size="-1">We tabulate historical data on syndicated loans published on World Bank "Borrowing in International Capital Markets" and Euromoney magazine. These new data significantly expand the currently available syndicated loan data, and are particularly relevant for research on international banking activities. </font></p>
+    <p><font size="-1">We tabulate historical data on syndicated loans published on World Bank "Borrowing in International Capital Markets" and Euromoney magazine. These new data significantly expand the currently available syndicated loan data, and are particularly relevant for research on international banking activities. </font></p>
+    </div>
   </li>
       
 </ol>
