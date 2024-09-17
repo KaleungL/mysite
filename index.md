@@ -78,7 +78,7 @@ layout: default
   <li>
     <b>The Early County Business Pattern Files: 1946–1974</b>
     <br>
-    <font size="-1"><i>(with Fabian Eckert, Atif R. Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
+    <font size="-1"><i>(with Fabian Eckert, Atif Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
@@ -91,7 +91,7 @@ layout: default
   <li>
     <b>County Business Patterns 1946–2016: A User Manual</b>
     <br>
-    <font size="-1"><i>(with Fabian Eckert, Atif R. Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
+    <font size="-1"><i>(with Fabian Eckert, Atif Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
     <br>
     <font size="-1"><i>NBER Working Paper No. 30578, October 2022.</i></font>
     <br>
@@ -106,7 +106,7 @@ layout: default
   <li>
     <b>Historical Data on Syndicated Loans 1973–1990</b>
     <br>
-    <font size="-1"><i>(with Atif R. Mian, Karsten Müller and Amir Sufi)</i></font>
+    <font size="-1"><i>(with Atif Mian, Karsten Müller and Amir Sufi)</i></font>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
