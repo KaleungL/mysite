@@ -128,6 +128,7 @@ layout: default
     <button class="collapsible"><font size="-1">Description.</font></button>
     <div class="abstract">
     <p> <font size="-1">This course is an introduction to financial investments for students with no prior knowledge of finance. It provides an overview of financial markets and instruments including stocks, bonds, futures, options, and other derivatives. A theory of optimal asset allocation teaches the tradeoff between risk and return and the importance of diversification. A theory of asset pricing, developed under the assumption of no arbitrage, is used to evaluate trading strategies and the performance of mutual funds and other asset managers. Key concepts are illustrated through examples and homework exercises that use financial market data.</font></p>
+    </div>
   </li>
   
   <br>
@@ -138,6 +139,7 @@ layout: default
     <button class="collapsible"><font size="-1">Description.</font></button>
     <div class="abstract">
     <p><font size="-1">This course examines the determinants of corporate financing decisions and the role of financial institutions in the wider context of the working of financial markets. Topics include capital budgeting, capital structure, risk management, and corporate governance. Additionally, the course introduces various methodologies for valuing individual projects, as well as entire companies.</font></p>
+    </div>
   </li>
   
   <br>
@@ -148,6 +150,7 @@ layout: default
     <button class="collapsible"><font size="-1">Description.</font></button>
     <div class="abstract">
     <p><font size="-1">Major topics in modern corporate finance. We study investment policy (investment decision rules, project valuation, cost of capital) and financial policy (mostly capital structure decisions). Additional topics (private equity, bankruptcy and reorganization, merger and acquisitions) are covered if time permits.</font></p>
+    </div>
   </li>
   
 </ul>
