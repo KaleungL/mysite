@@ -11,7 +11,6 @@ body {
 }
 
 div {
-  max-inline-size: 600px;
   word-wrap: break-word;
   hyphens: auto;
   text-align:justify;
@@ -49,19 +48,19 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#006DAE;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#006DAE;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#006DAE;
 }
 
 .wrapper {
