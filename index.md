@@ -62,7 +62,7 @@ layout: default
   <li>
     <b>The Early County Business Pattern Files: 1946–1974</b>
     <br>
-    <i>(with Fabian Eckert, Atif R. Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i>
+    <font size="-1"><i>(with Fabian Eckert, Atif R. Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
     <br>
     <font size="-1"><i>Abstract.</i> The County Business Pattern (CBP) files contain employment and establishment counts for detailed industry codes covering all counties in the United States. The contribution of this project is to digitize, clean, and prepare the CBP files during 1946–1974.</font>
   </li>
@@ -70,7 +70,7 @@ layout: default
   <li>
     <b>County Business Patterns 1946–2016: A User Manual</b>
     <br>
-    <i>(with Fabian Eckert, Atif R. Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i>
+    <font size="-1"><i>(with Fabian Eckert, Atif R. Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
     <br>
     <font size="-1"><i>Abstract.</i> This user manual provides a detailed documentation of a database containing all CBP datasets published during the first 70 years since its inception. We digitized historical data from physical print, standardized all data format, and imputed undisclosed employment counts. We also document changes in the data structure, industry classifications and county boundaries. </font>
   </li>
@@ -78,7 +78,7 @@ layout: default
   <li>
     <b>Historical Data on Syndicated Loans 1973–1990</b>
     <br>
-    <i>(with Atif R. Mian, Karsten Müller and Amir Sufi)</i>
+    <font size="-1"><i>(with Atif R. Mian, Karsten Müller and Amir Sufi)</i></font>
     <br>
     <font size="-1"><i>Abstract.</i> We tabulate historical data on syndicated loans published on World Bank "Borrowing in International Capital Markets" and Euromoney magazine. These new data significantly expand the currently available syndicated loan data, and are particularly relevant for research on international banking activities.  </font>
   </li>
