@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1><font size="+1">Hello!</font></h1>
+<h1><font size="28px">Hello!</font></h1>
 
 <p>
   I am a Research Fellow at Monash Centre for Financial Studies (MCFS). 
