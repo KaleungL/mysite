@@ -50,7 +50,7 @@ layout: default
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
-    <p><font size="-1">Banks play a role in transimitting trade shocks across regions and from tradable to non-tradable sectors. This paper studies the reponse of US banks to increase in import competition in the local economy due to China's accession to WTO. I find that exposed banks experience slower growth in deposits and limit their lending to households, and this further translates into slower employment growth in the local non-tradable sectors.</font></p>
+    <p><font size="-1">Banks can transmit trade shocks across regions and from tradable to non-tradable sectors. This paper studies the response of US banks to the increase in import competition in the local economy due to China's accession to WTO. I find that exposed banks experience slower growth in deposits and contract their household lendings. Regions with greater reliance on lending from exposed banks have slower employment growth in the non-tradable sectors.</font></p>
     </div>
   </li>
   
@@ -61,7 +61,7 @@ layout: default
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
-    <p><font size="-1">This paper studies the effects of government bailouts on banks' survial during the crisis. I find that US banks who received capital injections from the Treasury’s Capital Purchase Program had a lower failure rate than the non-recipient. However, the rescuing effects dissipate shortly after the peak of the crisis. Meanwhile, capital recipients also had a substantially higher chance of being acquired, possibly due to political pressures and management inefficiency, resulting in a higher overall exit rate.</font></p>
+    <p><font size="-1">This paper studies the effects of government bailouts on banks' survival during the crisis. I find that US banks who received capital injections from the Treasury's Capital Purchase Program had a lower failure rate than the non-recipient. However, the rescuing effects dissipate shortly after the peak of the crisis. Meanwhile, capital recipients also had a substantially higher chance of being acquired, possibly due to political pressures and management inefficiency, resulting in a higher overall exit rate.</font></p>
     </div>
   </li>
   
@@ -80,6 +80,7 @@ layout: default
     <br>
     <font size="-1"><i>(with Fabian Eckert, Atif Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
     <br>
+     <font size="-1"><i>NBER Working Paper No. 30578, October 2022.</i></font>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
     <p><font size="-1">The County Business Pattern (CBP) files contain employment and establishment counts for detailed industry codes covering all counties in the United States. The contribution of this project is to digitize, clean, and prepare the CBP files during 1946–1974.</font></p>
@@ -110,7 +111,7 @@ layout: default
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
-    <p><font size="-1">We tabulate historical data on syndicated loans published on World Bank "Borrowing in International Capital Markets" and Euromoney magazine. These new data significantly expand the currently available syndicated loan data, and are particularly relevant for research on international banking activities. </font></p>
+    <p><font size="-1">We tabulate historical data on syndicated loans published on World Bank "Borrowing in International Capital Markets" and the Euromoney magazine. These new data significantly expand the currently available syndicated loan data, and are particularly relevant for research on international banking activities. </font></p>
     </div>
   </li>
       
