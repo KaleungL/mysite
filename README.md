@@ -1,2 +1,2 @@
-# homepage
-This is my personal academic website.
+# Homepage
+Ka-leung Lam's personal academic website.
