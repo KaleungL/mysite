@@ -114,21 +114,3 @@ layout: default
     <font size="-1"><i>Description:</i> Major topics in modern corporate finance. We study investment policy (investment decision rules, project valuation, cost of capital) and financial policy (mostly capital structure decisions). Additional topics (private equity, bankruptcy and reorganization, merger and acquisitions) are covered if time permits.</font>
   </li>
 </ul>
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
