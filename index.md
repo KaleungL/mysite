@@ -36,9 +36,9 @@ layout: default
   <li>
     <b>Banks' Geographic Expansion: New Location, Same Old Neighbours</b>
     <br>
-    <button class="collapsible">Abstract.</button>
+    <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
-    <p>This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are indeed more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. As a consequence, the statewide deregulation may not benefit all regions and firms equally. Areas where more "familiar" entities experience more entries and higher growth. Small businesses may not benefit as much as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and offer policy guidance for more effective and equitable financial reforms.</p>
+    This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are indeed more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. As a consequence, the statewide deregulation may not benefit all regions and firms equally. Areas where more "familiar" entities experience more entries and higher growth. Small businesses may not benefit as much as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and offer policy guidance for more effective and equitable financial reforms.
     </div>
   </li>
   
