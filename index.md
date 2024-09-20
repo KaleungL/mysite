@@ -81,6 +81,7 @@ layout: default
     <font size="-1"><i>(with Fabian Eckert, Atif Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
     <br>
      <font size="-1"><i>NBER Working Paper No. 30578, October 2022.</i></font>
+    <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
     <p><font size="-1">The County Business Pattern (CBP) files contain employment and establishment counts for detailed industry codes covering all counties in the United States. The contribution of this project is to digitize, clean, and prepare the CBP files during 1946–1974.</font></p>
@@ -93,8 +94,6 @@ layout: default
     <b>County Business Patterns 1946–2016: A User Manual</b>
     <br>
     <font size="-1"><i>(with Fabian Eckert, Atif Mian, Karsten Müller, Rafael Schwalb, and Amir Sufi)</i></font>
-    <br>
-    <font size="-1"><i>NBER Working Paper No. 30578, October 2022.</i></font>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
