@@ -5,7 +5,7 @@ layout: default
 <h1>Hello!</h1>
 
 <p>
-  I am a Research Fellow at Monash Centre for Financial Studies (MCFS). 
+  I am a Research Fellow at Monash Centre for Financial Studies (MCFS). Prior to joining the Centre in August 2024, I obtained my PhD in Economics from Princeton University. 
 </p>
     
 <p>
@@ -20,10 +20,6 @@ layout: default
 <p>
   Currently, I am particularly interested in banking organisations and their role in the broader economy. 
   I study why banks thrive or fail, how they respond to policies and regulations, and how their behaviour affects the wellbeing of individuals, households and firms. 
-</p>
-  
-<p>
-  Prior to joining the Centre in August 2024, I obtained my PhD in Economics from Princeton University. 
 </p>
 
 
